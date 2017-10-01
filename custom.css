@@ -1,0 +1,16 @@
+body {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+	.container {
+		max-width: 730px;
+	}
+}
+
+.header h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: 40px;
+}
